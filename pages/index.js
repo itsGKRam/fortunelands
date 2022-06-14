@@ -1,9 +1,6 @@
 import { Flex, Text } from '@chakra-ui/layout';
+import Home from './home';
 
-export default function Home() {
-	return (
-		<Flex>
-			<Text fontSize='xl'>Hello</Text>
-		</Flex>
-	);
+export default function FortuneLands() {
+	return <Home />;
 }

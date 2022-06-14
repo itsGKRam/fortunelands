@@ -1,7 +1,7 @@
 export default function Global() {
-	const gData = {
+	const Data = {
 		webName: 'FortuneLands',
 	};
 
-	return gData;
+	return Data;
 }

@@ -6,7 +6,7 @@ export default function index(props) {
 	const global = Global();
 
 	return (
-		<Flex padding='10' width='100%'>
+		<Flex padding='10' width='100%' bg='#9d9d9d'>
 			<Stack
 				alignItems='flex-start'
 				direction='row'
